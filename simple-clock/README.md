@@ -1,12 +1,6 @@
- # Dictionary App
-
-##### API:
-    Dictionary API
-
-##### API link:
-    https://dictionaryapi.dev/
+ # Simple Clock App
 
 ##### Purpose :
-    Get definitions of a word using API
+    Create a simple analogue clock application using React
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/reactjs/dictionary/)
+#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/reactjs/simple-clock/)
